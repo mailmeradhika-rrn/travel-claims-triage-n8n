@@ -140,4 +140,4 @@ Conscious scope decisions for this build, not oversights:
 
 ---
 
-*Built as part of a self-paced 90-day AI workflow challenge, exploring practical, trustworthy AI-assisted automation across multiple industries.*
+*Built as part of a self-paced AI project challenge, exploring practical, trustworthy AI-assisted automation across multiple industries.*
